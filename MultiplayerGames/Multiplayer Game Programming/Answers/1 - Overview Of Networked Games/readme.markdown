@@ -6,6 +6,7 @@
 **Scenario**
 
 _`"local multiplayer"`_
+
 ![local.png](local.png)
 
 _`"networked multiplayer"`_
