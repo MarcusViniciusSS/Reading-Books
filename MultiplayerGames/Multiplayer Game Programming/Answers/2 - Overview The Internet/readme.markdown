@@ -39,6 +39,7 @@ of data that can be conveyed in a single transmission. The MTU of Ethernet is 15
 
 
 # 5
+![fragmentation.png](fragmentation.png)
 
 # 6
 As mentioned earlier, the MTU, or maximum payload size, of an Ethernet frame is 1500 bytes.
