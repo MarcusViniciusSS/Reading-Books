@@ -31,3 +31,7 @@
 *.out
 *.app
 .idea
+
+# Folders
+/DataStructure/Grokking algorithms/Stack/StackDataStructure/StackDataStructure/bin/
+/DataStructure/Grokking algorithms/Stack/StackDataStructure/StackDataStructure/obj/
